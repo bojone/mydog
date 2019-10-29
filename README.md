@@ -10,7 +10,7 @@
 ```
 sudo sysctl -w fs.inotify.max_user_watches="99999999"
 ```
-或再运行脚本。
+再运行脚本。
 
 ## 链接
 https://kexue.fm/
